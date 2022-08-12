@@ -65,9 +65,7 @@ Margret Edeh
 Ugo Chiori
 Ilesanmi Oluwatosin Daniel
 Ope Kareem
-<<<<<<< HEAD
-Seun Owolabi
-=======
+Ayo Owolabi
 Akinsulere Olajobi 
 Oluwatosin Lasisi
 Owolabi Babatunde
@@ -86,4 +84,4 @@ Adegboye Michael Olanrewaju
 Samuel Aniekeme
 Marrilyn Olungweonwi
 Ojoachele Onuh
->>>>>>> abf72e82476ec8c33edaef8f801459390cc225e9
+
